@@ -1,0 +1,26 @@
+Your classes must compile meet the following requirements:
+
+(10 points) Inheritance Relationship: Include at least one parent class and at least three child/grandchild classes that form an "is a" relationship. Classes can be concrete or abstract.
+(55 points) Class Design: Each class must contain:
+(10 points) instance data variables
+(10 points) constructor(s)
+(10 points) getters and setters
+(10 points) overridden toString method
+(15 points) overridden equals method 
+	Note that classes can contain these requirements directly OR inherited from a parent.
+(10 points) Methods: Your classes must have a total of at least three class-specific methods.
+	You can have just simple printlns as the method implementation for now or you can have the methods do more.
+	These methods must represent functionality of objects- some action or behavior that the object takes or that is taken on the object
+	The getters/setters do not count!
+	These methods must be instance methods- this means they cannot be static.
+	You must have three methods total across all classes. You are not required to have three methods in each class.
+(15 points) Driver: Write a driver program to demonstrate your classes:
+	Create an array, List, or ArrayList using the parent class as the declared type.
+	Fill with several different child objects.
+	Invoke at least two methods on the objects. (If the method exists only in the child class, use instanceof and a downcast.)
+(10 points) Style:
+	follow Java coding conventions (Links to an external site.)
+	follow general best practices and principles of object-oriented class design, encapsulation, and inheritance
+	properly format and indent code
+	follow naming conventions for variables, classes, and methods
+	reduce duplicated code
